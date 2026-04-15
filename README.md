@@ -3,7 +3,7 @@
 # 👋 Hi, I’m K Yuvateja Sainadh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;AI+%26+Product+Builder;Build.+Shape.+Showcase." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;AI+%26+Product+Builder." />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yuvatejasainadh?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/yuvateja_003?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 <p align="center">
