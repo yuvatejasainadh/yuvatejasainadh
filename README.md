@@ -57,7 +57,7 @@
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yuvateja_003?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/yuvateja_sainadh_?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 <p align="center">
