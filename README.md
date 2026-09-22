@@ -1,191 +1,293 @@
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROFILE HEADER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 👋 Hi, I’m K Yuvateja Sainadh
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Competitive+Programmer;AI+%26+Product+Builder." />
+# 👋 Hi, I'm **K. Yuvateja Sainadh**
+
+### Applied AI Engineer · Systems Architect · Founder
+
+<p>
+  <em>
+    Designing intelligent systems, scalable architectures, and real-world products.
+  </em>
 </p>
 
+<p>
+  <a href="https://yuvatejasainadh.me">
+    <img src="https://img.shields.io/badge/Portfolio-yuvatejasainadh.me-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yuvateja-sainadh-b8b428321/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yuvatejasainadh2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=yuvatejasainadh&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views"/>
+
+</div>
+
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-💻 Aspiring **Full Stack Developer** with strong foundations in development and problem solving
-🧠 Competitive Programmer with 1000+ problems solved across platforms
-⚡ Focused on building **scalable, real-world applications**
-🎯 Passionate about **UI/UX, system design, and product engineering**
+I'm an **Applied AI Engineer, Systems Architect, and Founder** focused on building intelligent, scalable, and production-oriented software systems.
+
+My work sits at the intersection of:
+
+- Artificial Intelligence and Generative AI
+- Backend and Distributed Systems
+- Cloud Infrastructure
+- Full-Stack Product Engineering
+- Automation and Intelligent Workflows
+- System Design and Technical Architecture
+
+I enjoy transforming complex problems into practical systems—from understanding the problem and designing the architecture to implementing, integrating, and moving solutions toward production.
+
+> **I don't just integrate AI models. I engineer the complete system around them.**
+
+That includes data flow, model orchestration, APIs, infrastructure, reliability, observability, and user-facing applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛡️ VoiceShield
+
+**AI for a Safer Tomorrow**
+
+AI-powered cybersecurity framework focused on real-time voice impersonation detection, prevention, and risk assessment.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💧 Dripzoid
+
+**Wear The Confidence**
+
+Full-stack commerce platform combining web, mobile, AI, automation, and scalable backend infrastructure.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AskDrip
+
+**AI Fashion Assistant**
+
+Intelligent fashion assistant using semantic search, RAG, vector embeddings, and LLM-powered recommendations.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
 
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c,html,css,sql" />
 </p>
-
----
 
 ### ⚙️ Frameworks & Runtime
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flutter" />
+</p>
+
+### 🧠 AI & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-00897B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pgVector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ☁️ Cloud, Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,docker,git,github,linux,postman,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
 ---
 
-### 🔧 Tools
+## 🏗️ Featured Projects
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### 🛡️ VoiceShield — AI for a Safer Tomorrow
+
+> **Real-Time AI-Powered Voice Impersonation Detection, Prevention & Risk Assessment**
+
+VoiceShield is an AI-powered cybersecurity framework designed to address emerging threats associated with AI-generated voice cloning and impersonation attacks.
+
+**Focus Areas**
+
+- Voice deepfake detection
+- Speech intelligence and transcription
+- AI-powered risk assessment
+- Cloud-based inference workflows
+- Secure backend architecture
+- Digital safety and forensic analysis
+
+**My Role**
+
+Founder, Applied AI Engineer & Systems Architect
+
+---
+
+### 💧 Dripzoid — Wear The Confidence
+
+A full-stack commerce platform built with modern web, mobile, backend, AI, and automation technologies.
+
+**Core Engineering Areas**
+
+- React-based web application
+- Node.js and Express backend
+- PostgreSQL and Prisma
+- Flutter mobile application
+- Oracle Cloud Infrastructure
+- Event-driven automation
+- Shipping and fulfillment workflows
+- AI-powered product discovery
+
+**Highlights**
+
+- Cross-platform application development
+- Automated customer and operational workflows
+- Integrated logistics and shipment tracking
+- Production-oriented backend architecture
+
+🌐 **Website:** [dripzoid.com](https://www.dripzoid.com)
+
+---
+
+### 🤖 AskDrip — AI Fashion Assistant
+
+An intelligent fashion assistant designed to improve product discovery and customer engagement within the Dripzoid ecosystem.
+
+**Technology Focus**
+
+- Retrieval-Augmented Generation
+- Semantic search
+- Vector embeddings
+- PostgreSQL with pgVector
+- FastAPI
+- LLM-powered recommendations
+- Conversational product assistance
+
+---
+
+## 🧩 Engineering Interests
+
+```text
+Applied AI Engineering
+AI Systems Architecture
+Generative AI & LLM Applications
+AI Agents & Intelligent Workflows
+Backend & Distributed Systems
+Cloud-Native Architecture
+Microservices & Event-Driven Systems
+Vector Search & Retrieval-Augmented Generation
+Full-Stack Product Engineering
+Automation Platforms
+System Reliability & Scalability
+```
 
 ---
 
 ## 🧠 Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yuvateja_sainadh_?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/yuvateja_sainadh_?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/CodeChef-600%2B%20Problems-brown?style=for-the-badge&logo=codechef"/>
-  <img src="https://img.shields.io/badge/HackerRank-5★%20Problem%20Solving-brightgreen?style=for-the-badge&logo=hackerrank"/>
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeChef-600%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-5★%20Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🚀 Forgefolio *(Flagship Project)*
-
-> Build. Shape. Showcase.
-
-🧩 A modern platform to create and share professional portfolios
-
-* ⚡ Real-time editing & preview
-* 🎨 Custom templates & UI systems
-* 🌐 Social features (likes, followers, achievements)
-* 🏗️ Built as a scalable product platform
-
----
-
-### 💧 Dripzoid
-
-🧩 Full-stack application with scalable architecture
-
-* 🔐 Authentication & API workflows
-* ⚙️ Clean backend structure
-* 🎨 Modular frontend UI
-
----
-
-### 🤖 Ask Drip – AI Chatbot
-
-🧠 Intelligent assistant for dynamic interactions
-
-* 💬 Real-time responses
-* 🔗 Integration-ready architecture
-* ⚡ Focus on usability
-
----
-
-### 🏙️ Smart City
-
-🌆 Real-world problem-solving system
-
-* 🧩 Modular architecture
-* 📊 Practical use-case design
-* ⚡ Scalable structure
-
----
-
-### 🧪 Deep Test Labs
-
-🔬 Backend system for testing workflows
-
-* ⚙️ Structured APIs
-* 🔄 Reliable server logic
-* 🧩 Extensible design
-
----
-
-### 🧠 RecruiMind AI
-
-🤖 AI-powered recruitment system
-
-* 📊 Candidate evaluation workflows
-* ⚡ Automation-driven system
-* 🎯 Real-world hiring solutions
 
 ---
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yuvatejasainadh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvatejasainadh&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvatejasainadh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-oriented AI systems
+- Designing scalable backend and cloud architectures
+- Exploring agentic AI and intelligent automation
+- Engineering cybersecurity solutions powered by AI
+- Developing real-world products with measurable impact
+- Improving system reliability, performance, and maintainability
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yuvatejasainadh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvatejasainadh&theme=tokyonight&hide_border=true"/>
+
+<a href="https://yuvatejasainadh.me">
+  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yuvateja-sainadh-b8b428321/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yuvatejasainadh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/yuvatejasainadh.me/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Yuvateja_003">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvatejasainadh&layout=compact&theme=tokyonight&hide_border=true"/>
+  <strong>Building intelligent systems today for a more capable tomorrow.</strong>
 </p>
 
 ---
 
-## 🏆 Achievements
+<div align="center">
 
-🏅 1000+ DSA Problems Solved
-⭐ 5★ in HackerRank Problem Solving
-🚀 Built Multiple Full-Stack & AI Projects
-💡 Strong focus on real-world product development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=120&section=footer"/>
 
----
-
-## 🎯 Professional Strengths
-
-✔️ Full Stack Development (Frontend + Backend)
-✔️ Strong Problem Solving & Algorithms
-✔️ Clean, Scalable Code Architecture
-✔️ UI/UX Focused Development
-✔️ Product Thinking & System Design
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-<a href="https://github.com/yuvatejasainadh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/yuvateja-sainadh-b8b428321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:yuvatejasainadh2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-## 🧠 ATS Keywords
-
-Full Stack Developer • React • Node.js • JavaScript • Python • Java • C++ • SQL • REST APIs • Authentication • UI Engineering • Competitive Programming • Data Structures • Algorithms • Scalable Systems • Clean Code
-
----
-
-## ⚡ Final Touch
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
-</p>
-
----
-
+</div>
